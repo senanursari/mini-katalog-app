@@ -37,6 +37,25 @@ Bu uygulama, temel seviyede bir mobil katalog uygulamasının yapısını göste
 
 - Flutter 3.41.2
 - Dart 3.11.0
+## Ekran Görüntüleri
+
+### Ana Ekran
+![Ana Ekran](screenshots/home.png)
+
+### Arama Ekranı
+![Arama Ekranı](screenshots/search.png)
+
+### Ürün Detay Ekranı
+![Ürün Detay Ekranı](screenshots/detail1.png)
+
+### Ürün Detay Devam Ekranı
+![Ürün Detay Devam Ekranı](screenshots/detail2.png)
+
+### Sepet Ekranı
+![Sepet Ekranı](screenshots/card.png)
+
+### Boş Sepet Ekranı
+![Boş Sepet Ekranı](screenshots/empty_card.png)
 
 ## Proje Klasör Yapısı
 
