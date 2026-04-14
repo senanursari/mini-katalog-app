@@ -40,14 +40,49 @@ Bu uygulama, temel seviyede bir mobil katalog uygulamasının yapısını göste
 
 ## Proje Klasör Yapısı
 
-```text
-lib/
-  models/
-  screens/
-  services/
-
-assets/
-  data/
-  images/
-
-screenshots/
+mini-katalog-app/
+│
+├── android/
+├── ios/
+├── lib/
+│   ├── models/
+│   │   └── product.dart
+│   ├── screens/
+│   │   ├── cart_screen.dart
+│   │   ├── home_screen.dart
+│   │   └── product_detail_screen.dart
+│   ├── services/
+│   │   └── product_service.dart
+│   ├── widgets/
+│   └── main.dart
+│
+├── assets/
+│   ├── data/
+│   │   └── products.json
+│   └── images/
+│       ├── banner.jpg
+│       ├── product1.jpg
+│       ├── product2.jpg
+│       ├── product3.jpg
+│       ├── product4.jpg
+│       ├── product5.jpg
+│       └── product6.jpg
+│
+├── screenshots/
+│   ├── home.png
+│   ├── search.png
+│   ├── detail1.png
+│   ├── detail2.png
+│   ├── card.png
+│   └── empty_card.png
+│
+├── test/
+│   └── widget_test.dart
+│
+├── web/
+├── windows/
+├── linux/
+├── macos/
+├── pubspec.yaml
+├── pubspec.lock
+└── README.md
