@@ -1,17 +1,54 @@
-# mini_katalog_app
+# mini-katalog-app
 
-A new Flutter project.
+A Flutter-based mini catalog app for skincare products with product listing, product detail, search, and cart simulation.
 
-## Getting Started
+## Project Overview
 
-This project is a starting point for a Flutter application.
+This project was developed as part of a Flutter training program.  
+The app demonstrates the basic structure of a mobile catalog application, including:
 
-A few resources to get you started if this is your first Flutter project:
+- product listing
+- product detail page
+- search and filtering
+- cart simulation
+- quantity increase/decrease
+- local JSON data usage
+- asset image management
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Home screen with product cards
+- Product detail screen
+- Search and filtering
+- Cart screen
+- Add to cart simulation
+- Increase / decrease product quantity
+- Remove product from cart
+- Empty cart state
+- Total product count and total price display
+- Local JSON and local asset images
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+
+## Flutter Version
+
+- Flutter 3.41.2
+- Dart 3.11.0
+
+## Project Structure
+
+```text
+lib/
+  models/
+  screens/
+  services/
+
+assets/
+  data/
+  images/
+
+screenshots/
