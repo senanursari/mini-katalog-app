@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Hızlı Emilen Bakım Kremi",
+    "tagline": "Günlük kullanıma uygun yoğun bakım kremi",
+    "description": "Hızlı emilen yapısıyla öne çıkan bu bakım kremi, cildin gün içinde daha yumuşak ve bakımlı hissetmesine yardımcı olur. Pratik kavanoz ambalajıyla kolay kullanım sağlar.",
+    "price": "199.90",
+    "currency": "TRY",
+    "image": "assets/images/product1.jpg",
+    "specs": {
+      "Formül": "Norwegian Formula",
+      "Özellik": "Hızlı emilim",
+      "Kullanım": "Günlük bakım"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Atoderm Creme Ultra Nemlendirici",
+    "tagline": "Yoğun nem veren bakım kremi",
+    "description": "Kuru ve hassas ciltlerin nem ihtiyacını desteklemeye yardımcı olan bu krem, günlük bakım rutininde cildi besleyen ve rahatlatan bir kullanım sunar.",
+    "price": "629.90",
+    "currency": "TRY",
+    "image": "assets/images/product2.jpg",
+    "specs": {
+      "Seri": "Atoderm Creme Ultra",
+      "Hacim": "500 ml",
+      "Etki": "Uzun süreli nemlendirme"
+   
+    }
+  },
+  {
+    "id": 3,
+    "name": "Vanilya & Badem Yağlı Vücut Losyonu",
+    "tagline": "Nazik kokulu ve hızlı emilen vücut losyonu",
+    "description": "Vanilya ve badem özleriyle zenginleştirilmiş bu losyon, cilde yumuşaklık kazandırmaya yardımcı olur. Normal ve kuru ciltler için günlük kullanımda idealdir.",
+    "price": "239.90",
+    "currency": "TRY",
+    "image": "assets/images/product3.jpg",
+    "specs": {
+      "Cilt Tipi": "Normal / Kuru cilt",
+      "Hacim": "400 ml",
+      "Etki": "Nemlendirme ve yumuşatma"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Niacinamide %5 + Zinc PCA %1 Serum",
+    "tagline": "Gözenek görünümüne yönelik bakım serumu",
+    "description": "Niacinamide ve Zinc PCA içeren bu serum, cilt görünümünü dengelemeye ve daha pürüzsüz bir görünüm sağlamaya yardımcı olur. Hafif yapısı sayesinde günlük rutine kolayca eklenebilir.",
+    "price": "389.90",
+    "currency": "TRY",
+    "image": "assets/images/product4.jpg",
+    "specs": {
+      "İçerik": "Niacinamide %5 + Zinc PCA %1",
+      "Hacim": "30 ml",
+      "Etki": "Gözenek görünümü bakımı"
+    
+    }
+  },
+  {
+    "id": 5,
+     "name": "AHA %10 + BHA %2 Peeling Serum",
+    "tagline": "Cilt yüzeyini arındırmaya yardımcı peeling serum",
+    "description": "AHA ve BHA içeren bu peeling serum, cilt görünümünü yenilemeye ve daha pürüzsüz bir his sağlamaya yardımcı olur. Düzenli ve dikkatli kullanım için uygundur.",
+    "price": "469.90",
+    "currency": "TRY",
+    "image": "assets/images/product5.jpg",
+    "specs": {
+      "İçerik": "AHA %10 + BHA %2",
+      "Hacim": "30 ml",
+      "Etki": "Arındırıcı bakım"
+   
+    }
+  },
+  {
+    "id": 6,
+    "name": "Hyaluronic Acid %2 + B5 Serum",
+    "tagline": "Yoğun nem desteği sağlayan bakım serumu",
+    "description": "Hyaluronic acid ve B5 içeren bu serum, cildin daha nemli ve canlı görünmesine yardımcı olur. Günlük bakım rutininde hafif yapısıyla kolay kullanım sunar.",
+    "price": "449.90",
+    "currency": "TRY",
+    "image": "assets/images/product6.jpg",
+    "specs": {
+      "İçerik": "Hyaluronic Acid %2 + B5",
+      "Hacim": "30 ml",
+      "Etki": "Yoğun nemlendirme"
+    
+    }
+  }
+]
