@@ -1,45 +1,44 @@
 # mini-katalog-app
 
-A Flutter-based mini catalog app for skincare products with product listing, product detail, search, and cart simulation.
+Bu proje, Flutter eğitimi kapsamında geliştirilmiş cilt bakım ürünleri temalı bir mini katalog uygulamasıdır.
 
-## Project Overview
+## Proje Hakkında
 
-This project was developed as part of a Flutter training program.  
-The app demonstrates the basic structure of a mobile catalog application, including:
+Bu uygulama, temel seviyede bir mobil katalog uygulamasının yapısını göstermek amacıyla geliştirilmiştir. Projede aşağıdaki temel yapılar bulunmaktadır:
 
-- product listing
-- product detail page
-- search and filtering
-- cart simulation
-- quantity increase/decrease
-- local JSON data usage
-- asset image management
+- ürün listeleme
+- ürün detay sayfası
+- arama ve filtreleme
+- sepet simülasyonu
+- adet artırma / azaltma
+- yerel JSON veri kullanımı
+- asset görsel yönetimi
 
-## Features
+## Özellikler
 
-- Home screen with product cards
-- Product detail screen
-- Search and filtering
-- Cart screen
-- Add to cart simulation
-- Increase / decrease product quantity
-- Remove product from cart
-- Empty cart state
-- Total product count and total price display
-- Local JSON and local asset images
+- Ana sayfada ürün kartları
+- Ürün detay ekranı
+- Arama ve filtreleme özelliği
+- Sepet ekranı
+- Sepete ürün ekleme simülasyonu
+- Ürün adedini artırma / azaltma
+- Sepetten ürün silme
+- Boş sepet görünümü
+- Toplam ürün sayısı ve toplam tutar gösterimi
+- Yerel JSON ve yerel asset görsellerle çalışma
 
-## Technologies Used
+## Kullanılan Teknolojiler
 
 - Flutter
 - Dart
 - Material Design
 
-## Flutter Version
+## Flutter Sürümü
 
 - Flutter 3.41.2
 - Dart 3.11.0
 
-## Project Structure
+## Proje Klasör Yapısı
 
 ```text
 lib/
